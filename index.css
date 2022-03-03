@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box ;
+}
+
+
+#landing-page {
+	height:90vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	background-color:#85F4FF ;
+}
+
+#landing-page-2{
+	height:50vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	background-color:#85F4FF ;
+
+}
+
+#mproj{
+	padding: 2rem;
+	margin-bottom: 2rem;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	background-color:#85F4FF ;
+}
+
+#pr{
+	padding: 1rem;
+	color: red;
+}
+
+#pr2{
+	padding: 0.5rem;
+	color: black;
+}
+
+.bt-1{
+	background-color: #B8FFF9  ;
+
+}
+
+#icon{
+	height: 60px;
+	width: 60px;
+}
+
+#bt-1{
+	background-color: lightyellow;
+}
+
+body{
+	font-family: 'Exo 2', sans-serif;
+	background-color:#42C2FF;
+}
+
+.title{
+	background-color:#85F4FF;
+	padding: 2rem;
+}
+
+#contact-j{
+	background-color:#85F4FF ;
+}
+
+#brand{
+	margin-top: 20px;
+	text-align: center;
+	color: black;
+}
+
+#motto-about{
+	margin-bottom: 50px;
+	padding-top: 20px;
+	text-align: center;
+	color: red;
+}
+
+#motto{
+	margin-bottom: 100px;
+	padding-top: 20px;
+	text-align: center;
+	color: red;
+}
+
+#contact-icon{
+	height: 100px;
+	width: 100px;
+	padding: 10px;
+}
+
+#footer{
+	padding: 2rem;
+	background-color:#85F4FF ;
+}
